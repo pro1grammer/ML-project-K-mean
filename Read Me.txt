@@ -1,0 +1,8 @@
+Run following commands one after another after pasting data set in the same directory:-
+
+
+1) python kmean.py
+
+2) python heira.py
+
+3) python jaccard.py
